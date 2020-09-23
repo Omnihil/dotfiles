@@ -1,0 +1,3 @@
+FEH="feh --bg-scale"
+WALLPAPER_DIR="/usr/share/backgrounds"
+floating=0
